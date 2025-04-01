@@ -1,0 +1,2 @@
+Hello World
+This is a text fileThis line was appended using pythonThis line was appended using pythonThis line was appended using python
